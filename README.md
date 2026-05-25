@@ -213,18 +213,38 @@ O objetivo deste projeto foi praticar conceitos Full Stack utilizando Laravel, d
 
 ---
 
-# Melhorias Futuras
-
-- Upload de arquivos
-- Dashboard analítico
-- Dark mode
-- Notificações
-- Docker
-- Deploy em produção
-- Integração com IA
-
 ---
 
+# Prints do Sistema
+
+## Página Inicial
+<img width="1919" height="871" alt="Tela inicial" src="https://github.com/user-attachments/assets/247c0855-58f4-4159-8b5a-5a0eb25bee34" />
+
+---
+## Login
+<img width="1904" height="848" alt="Tela de login" src="https://github.com/user-attachments/assets/4e2b9906-63aa-4030-8a94-2092539470dc" />
+
+---
+## Cadastro
+<img width="1919" height="866" alt="Tela de cadastro" src="https://github.com/user-attachments/assets/3d6bf07a-4274-4b26-b2ee-53f460943e38" />
+
+---
+## Dashboard
+<img width="1900" height="863" alt="Dashboard" src="https://github.com/user-attachments/assets/5bc4f926-d784-43d6-b78b-ceb9633bbe83" />
+
+---
+## Perfil
+<img width="1913" height="862" alt="Pagina perfil" src="https://github.com/user-attachments/assets/0aa0e1fc-2507-4d16-91fe-6739c813c6e1" />
+
+---
+## Tarefas
+<img width="1913" height="864" alt="Pagina de tarefas" src="https://github.com/user-attachments/assets/998fe558-1b3d-4d75-be69-61260d4178b9" />
+
+---
+## Tarefas API
+<img width="1918" height="865" alt="Pagina de tarefas API" src="https://github.com/user-attachments/assets/dc0c7f4e-3576-4758-ba6d-a6da3fb9052f" />
+
+---
 # Autor
 
 Desenvolvido por Diogo Brito  
