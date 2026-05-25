@@ -110,7 +110,7 @@ routes/
 ## 1. Clonar repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Diogobrito92/SistemaTarefas.git
 ```
 
 ---
